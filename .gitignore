@@ -48,3 +48,5 @@ dist/
 build/
 *.whl
 *.tar.gz
+# Test files
+test_phase*.py
