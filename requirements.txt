@@ -1,0 +1,12 @@
+# Core
+rich>=13.0.0
+
+# Remote sinks (phase 6)
+requests>=2.31.0
+twilio>=8.0.0
+
+# Config loading (phase 5)
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+
+logforge
